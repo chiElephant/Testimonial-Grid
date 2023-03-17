@@ -1,6 +1,6 @@
-# Simple Tailwind CSS Starter
+# Testimonial Grid
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is an extremley simple setup Tailwind project exhibiting the library's ability to easyily structure layouts in a grid format.
 
 ## Usage
 
